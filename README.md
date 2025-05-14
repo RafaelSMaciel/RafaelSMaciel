@@ -4,9 +4,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/rafael-smaciel"><img src="https://img.shields.io/github/followers/rafael-smaciel?style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/rafaelsmaciel"><img src="https://img.shields.io/github/followers/rafaelsmaciel?style=social" alt="GitHub followers"></a>
   <a href="https://www.linkedin.com/in/rafael-smaciel/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <img src="https://img.shields.io/github/languages/top/rafael-smaciel?color=orange&style=flat-square" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/top/rafaelsmaciel?color=orange&style=flat-square" alt="Top Language">
 </p>
 
 ---
