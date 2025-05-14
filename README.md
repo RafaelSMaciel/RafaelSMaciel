@@ -23,7 +23,7 @@ Além disso, atuo na sustentação e administração do ambiente **Databricks**,
 - 💾 Ingestão de dados com **PySpark**, garantindo qualidade e integridade
 - 🛠️ Desenvolvimento e manutenção de pipelines de dados
 - 🧮 Criação de **queries SQL** com **DBT**
-- 🧱 Desenvolvimento de **Data Vault** nas camadas Bronze, Silver e Gold
+- 🧱 Desenvolvimento das camadas Bronze, Silver e Gold
 
 Tenho também experiência em ambientes **AWS**, com:
 
@@ -82,6 +82,6 @@ Estou sempre em evolução, estudando ferramentas como **Airflow**, **Airbyte**,
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafael-smaciel&show_icons=true&theme=radical&count_private=true&hide=prs" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-smaciel&layout=compact&theme=radical" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafaelsmaciel&show_icons=true&theme=radical&count_private=true&hide=prs" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsmaciel&layout=compact&theme=radical" height="180">
 </p>
